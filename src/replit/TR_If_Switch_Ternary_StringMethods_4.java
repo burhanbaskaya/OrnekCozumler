@@ -31,6 +31,9 @@ public class TR_If_Switch_Ternary_StringMethods_4 {
                 break;
             default:
                 System.out.println("Geçersiz giriş, lütfen tekrar deneyin!");
+
+
+
         }
     }
 }
